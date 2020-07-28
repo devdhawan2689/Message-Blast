@@ -18,8 +18,8 @@ for item in story:
 	script = item.getText().split('\n')
 # pprint.pprint(script)
 
-mobileNumber = '-Enter the Mobile Number of the Victim-'
-androidIP = IPv4Address("-Enter your Phone's IP Address-")
+mobileNumber = '(Enter the Mobile Number of the Victim)'
+androidIP = IPv4Address("(Enter your Phone's IP Address)")
 androidSession = AirmoreSession(androidIP)
 smsService = MessagingService(androidSession)
 

@@ -1,5 +1,5 @@
 # Message-Blast
-A message blaster program that scrapes the whole script of the movie a Bug's Life and sends it to the victim word by word.This code is written in Python using Beautiful Soup and Pyairmore Module
+A message blaster program that scrapes the whole script of the movie "A Bug's Life" and sends it to the victim word by word.This code is written in Python using Beautiful Soup and Pyairmore Module
 
 Go to http://web.airmore.com and download the airmore app on your android or ios phone.
 
